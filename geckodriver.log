@@ -1,0 +1,115 @@
+1708293056457	geckodriver	INFO	Listening on 127.0.0.1:59028
+1708293059522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileEnVMSJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708293060248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708293060478	Marionette	INFO	Listening on port 59039
+WebDriver BiDi listening on ws://127.0.0.1:59029
+Read port: 59039
+1708293060852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59029/devtools/browser/138e0efd-21ca-42c8-80fd-afc59948e3cb
+1708293066604	Marionette	INFO	Stopped listening on port 59039
+Dynamically enable window occlusion 1
+1708293068261	geckodriver	INFO	Listening on 127.0.0.1:59066
+1708293071305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilejo4gfn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708293071831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708293072031	Marionette	INFO	Listening on port 59075
+WebDriver BiDi listening on ws://127.0.0.1:59067
+Read port: 59075
+1708293072360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59067/devtools/browser/d8821620-38be-494a-9b3a-a5a30852c11e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1708293080470	Marionette	INFO	Stopped listening on port 59075
+JavaScript warning: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: Script terminated by timeout at:
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:89409
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:220
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:225
+
+JavaScript error: https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80, line 8: NS_ERROR_FAILURE: 
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1708330625256	geckodriver	INFO	Listening on 127.0.0.1:63170
+1708330628305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilesCfwDf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708330628983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708330629224	Marionette	INFO	Listening on port 63179
+WebDriver BiDi listening on ws://127.0.0.1:63171
+Read port: 63179
+1708330629617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63171/devtools/browser/8e33d972-7921-4185-a826-ed1bae01de8b
+1708330635966	Marionette	INFO	Stopped listening on port 63179
+Dynamically enable window occlusion 1
+1708330637680	geckodriver	INFO	Listening on 127.0.0.1:63215
+1708330640709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileqtBNx3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708330641240	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708330641437	Marionette	INFO	Listening on port 63224
+WebDriver BiDi listening on ws://127.0.0.1:63216
+Read port: 63224
+1708330641769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63216/devtools/browser/578585ad-974b-44bd-adcf-9cd46b2b5703
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1708330650480	Marionette	INFO	Stopped listening on port 63224
+JavaScript warning: https://admin-demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+t.prototype.flushWrittenContentAndDisable@https://admin-demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:6747
+t.prototype.finalizeActivation@https://admin-demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:11470
+t.prototype.run/n<@https://admin-demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:11132
+s/<@https://admin-demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:670
+
+Dynamically enable window occlusion 1
+1708331648098	geckodriver	INFO	Listening on 127.0.0.1:63856
+1708331651121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilemVZTeK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708331651905	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708331652918	Marionette	INFO	Listening on port 63872
+WebDriver BiDi listening on ws://127.0.0.1:63857
+Read port: 63873
+1708331653369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63855/devtools/browser/b0da5a91-d06f-41be-bb31-de0bfe27b033
+console.warn: LoginRecipes: "Falling back to a synchronous messDynamically enable window occlusion 1
+.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1708331669095	Marionette	INFO	Stopped listening on port 63873
+JavaScript warning: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: Script terminated by timeout at:
+S.fn.extend@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:2315
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:80747
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:220
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:225
+
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/lib/kendo/2020.1.406/js/messages/kendo.messages.en-US.min.js?v=KNwmFaETNYZCiBVx3NSwe1lYysw, line 16: TypeError: window.kendo is undefined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 6: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: kendo is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+Dynamically enable window occlusion 1
